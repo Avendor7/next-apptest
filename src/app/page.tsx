@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Things have happened!
+            Things have happened Again!
           </li>
         </ol>
 
